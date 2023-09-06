@@ -1,4 +1,5 @@
-# Hacking
+
+#install SIAM-LINK Script Version 2023
 apt update -y && apt upgrade -y && wget https://raw.github.com/Note20unlimited/Hacking/main/Plus/Plus && chmod 777 Plus && ./Plus
 
 Script Ran แก้ไข Erorr - Ubuntu 18-20
